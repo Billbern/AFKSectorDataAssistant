@@ -1,3 +1,4 @@
-*/__pycache__
-undefined/
+__pycache__
+undefined
+logs
 .env
